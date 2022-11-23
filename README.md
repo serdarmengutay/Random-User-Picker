@@ -1,5 +1,5 @@
 # Random-User-Picker
-Dynamically adds random user properties to the screen by pulling api with fetch
+Dynamically adds random user properties to the screen by pulling api with fetch. When you click to Get Random User button this site will shows you different user's informations quickly. This architecture can also be used in many different purpose sites and provides convenience.
 
 
 
